@@ -1,5 +1,5 @@
 let nombre = prompt('Ingrese su nombre ');
-alert('Hola ' + nombre.toUpperCase() + ' bienvenido a nuestro supermercado');
+alert('Hola ' + nombre.toUpperCase() + ' bienvenido a Ginebra muebles');
 
 
 
